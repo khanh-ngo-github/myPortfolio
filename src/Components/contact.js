@@ -15,7 +15,13 @@ class Contact extends Component {
 						/>
 						<p style={{ width: '75%', margin: 'auto', paddingTop: '1em' }}>
 							Full Stack Java Developer with over 19 years of IT experience in fast paced enterprise
-							environments in financial, insurance, travel, and e-Commerce.
+							environments in financial, insurance, travel, and e-Commerce. A productive team player
+							focused on open communication to maximize efficiency. Experience working in a fast paced,
+							culturally diverse environments spanning multiple time zones, roles, and functions. Very
+							good trouble shooting skills, excellent work ethics, and strong multiple tasking skills.
+							Experience practicing agile software development concepts and processes. Demonstrated
+							willingness to take action to build and develop new skills. Proven ability to learn, grasp,
+							and quickly utilize new concepts.
 						</p>
 					</Cell>
 					<Cell col={6}>
